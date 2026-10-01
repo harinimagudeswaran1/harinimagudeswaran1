@@ -97,15 +97,14 @@ field of data analytics.*
 <!-- Languages & Frameworks -->
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />&nbsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp;
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />&nbsp;
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />&nbsp;
+  <img alt="AWS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+  <img alt="ATHENA" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;
+  <img alt="GLUE" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
+  <img alt="ETL" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />&nbsp;
+  <img alt="SQL" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
+  <img alt="POWERBI" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp;
+  <img alt="R" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />&nbsp;
+  <img alt="TERRAFORM" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />&nbsp;
 </p>
 
 
@@ -115,21 +114,18 @@ field of data analytics.*
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp;
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />&nbsp;
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />&nbsp;
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />&nbsp;
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />&nbsp;
+  <img alt="AWS" src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />&nbsp;
+  <img alt="POWERBI" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />&nbsp;
+  <img alt="TABLEU" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />&nbsp;
+  <img alt="GITLAB" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />&nbsp;
 </p>
 
 <hr style="border:none;border-top:1px solid #efe6e1;margin:12px 0;"/>
 
 <h3 style="margin-bottom:6px;">Internships & Projects</h3>
 <ul>
-  <li><strong>Techciti Technologies Pvt Ltd — Data Science Intern</strong><br/>
-  <li><strong>Bachelor's project in empowerment of rural in health science</strong></li>
-  <li><strong>Customer sales dashboard</strong></li>
-  <li><strong>Data wrangling with sql</strong></li>
-
+  <li><strong>MANE - Data engineer/ Data Analyst Intern, France</strong><br/>
+  
 
 
 
