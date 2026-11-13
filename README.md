@@ -25,7 +25,7 @@ I am a **Data Analyst and Data Engineer** with hands-on experience in data pipel
 
 ## 💼 Experience
 
-### Data Analyst Intern · MANE
+### Data Engineer Intern · MANE
 
 **Sophia Antipolis, France · March–August 2026**
 
